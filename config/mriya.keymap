@@ -58,8 +58,8 @@
        &trans          &trans     &kurier           &trans     &kp LC(INSERT)  &kp LS(INSERT)    &trans     &trans    &trans     &trans    &trans    &trans
 &kp M  &kp UNDER       &kp F1     &kp F2            &kp F3     &kp F4          &kp F5            &kp F6     &kp F7    &kp F8     &kp F9    &kp F10   &kp F11          &mt RGUI F12
        &mt LCTRL PLUS  &kp EQUAL  &kp LS(MINUS)     &kp MINUS  &kp PLUS        &kp PRCNT         &kp CARET  &kp AMPS  &kp STAR   &kp LPAR  &kp RPAR  &mt RCTRL MINUS
-       &mt LALT EQUAL  &kp N1     &kp N2            &kp N3     &kp N4          &kp N5            &kp N6     &kp N7    &kp N8     &kp N9    &kp N0    &trans
-                                  &kp C_PLAY_PAUSE  &lt 3 TAB  &trans          &trans            &trans     &trans    &lt 3 DEL  &trans
+       &mt LALT EQUAL  &kp N1     &kp N2            &kp N3     &kp PAGE_DOWN   &kp PAGE_UP       &kp N6     &kp N7    &kp N8     &kp N9    &kp N0    &trans
+                                  &kp C_PLAY_PAUSE  &lt 3 TAB  &kp BACKSPACE   &trans            &trans     &trans    &lt 3 DEL  &trans
             >;
         };
 
